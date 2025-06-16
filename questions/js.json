@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What does === mean?",
+    "options": [
+      "Value and type equality",
+      "Only value equality",
+      "Assignment",
+      "None of the above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does == mean?",
+    "options": [
+      "Value and type equality",
+      "Only value equality",
+      "Assignment",
+      "None of the above"
+    ],
+    "answer": 1
+  }
+]
